@@ -6,7 +6,7 @@ The E-commerce Sales Dashboard project is designed to provide a comprehensive an
 ## Tools Used
 - **Microsoft Power BI**: For data ingestion, transformation, analysis, visualization, and interactive dashboard creation.
 
-## Data Cleaning (Assumed Steps - customize if different)
+## Data Cleaning
 The data preparation process involved several steps to ensure the dataset was accurate and ready for analysis:
 - Handling Missing Values: Addressed missing data in critical fields by appropriate methods (e.g., imputation for numerical data if suitable, or flagging/removing records with incomplete essential information).
 - Data Formatting: Ensured consistency in data types (e.g., dates converted to date format, monetary values to numeric, categorical data standardized).
